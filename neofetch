@@ -1917,6 +1917,7 @@ get_wm() {
                                -e grefsen \
                                -e hikari \
                                -e kwin \
+			       -e labwc \
                                -e lipstick \
                                -e maynard \
                                -e mazecompositor \
