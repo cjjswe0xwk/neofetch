@@ -23,3 +23,13 @@ Neofetch supports almost 150 different operating systems. From Linux to Windows,
 
 
 ### More: \[[Dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[Installation](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[Wiki](https://github.com/dylanaraps/neofetch/wiki)\]
+
+
+
+
+
+
+
+The only thing this fork does is adds Labwc to the list of wm's and changes the Gentoo logo to bellow.
+
+<img src="https://i.imgur.com/CA25ctT.png" alt="Gentoo logo" align="center" height="240px">
