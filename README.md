@@ -32,4 +32,4 @@ Neofetch supports almost 150 different operating systems. From Linux to Windows,
 
 The only thing this fork does is adds Labwc to the list of wm's and changes the Gentoo logo to bellow.
 
-<img src="https://i.imgur.com/CA25ctT.png" alt="Gentoo logo" align="center" height="240px">
+<img src="https://i.imgur.com/hmSpR3g.png" alt="Gentoo logo" height="240px">
